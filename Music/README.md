@@ -4,4 +4,4 @@
 Must be a .wav, and it can't be copyrighted. (Also, no meme music if that has be made clear.) Otherwise, you can kind of do anything. It also cant be excessively long (over 30 seconds.) Additionally, it has to be approved by the community.
 
 ## Current Music:
-Gameboy Advance Startup Sound
+Vox Wobble by CornierKhan1 (using GarageBand)
