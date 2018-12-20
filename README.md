@@ -1,5 +1,5 @@
 # Disconnect24 Channel Forwarder
-A forwarder to the mail patcher. Developed by TheMegaEagle.
+A forwarder to the mail patcher. Developed by TheMegaEagle. Disclaimer: This doesn't work with the latest version of Mail-GO, as the main channel hasn't been updated.
 
 ## What can I do with this?
 So far, this only forwards you to the mail patcher. Any new features that are added to the https://github.com/Disconnect24/dc24-channel GitHub repository will also be added here.
