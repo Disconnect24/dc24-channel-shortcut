@@ -10,5 +10,5 @@ As stated above, this just forwards you to https://github.com/Disconnect24/dc24-
 ## Warnings & Other Information
 While this has been tested by developers; it was only tested on a Wii with Priiloader and on Dolphin Emulator. Therefore, there could be some brick risk. However, to our knowledge, it is fine. Just use Priiloader on your Wii to be safe. This uses the Waninkoko NAND loader to launch, if you wanted to know.
 
-## Banner
-Want to edit the banner? Do that at https://github.com/Disconnect24/dc24-channel-shortcut/tree/master/Banners!
+## Banners & Music
+Want to edit the banners? Do that at https://github.com/Disconnect24/dc24-channel-shortcut/tree/master/Banners! If you want to edit music, you can do that at https://github.com/Disconnect24/dc24-channel-shortcut/tree/master/Music!
